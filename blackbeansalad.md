@@ -15,6 +15,7 @@ This is good for summer as a side dish or topping to mexican food.
 * 3 jalapeno peppers
 * 5 roma tomatoes (or equivalent)
 * chili powder
+* salt
 
 ## Directions
 
@@ -39,3 +40,5 @@ Squeeze juice of limes into bowl
 Scrape pulp from limes, add
 
 Add a couple teaspoons of chili powder
+
+Add salt to taste
