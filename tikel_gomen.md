@@ -20,3 +20,7 @@ Removed olive oil and carrots
 2.  Stir in seasonings (about 60 seconds)
 3.  Add cabbage and potaotes.  Stir, cover.  Reduce heat to medium-low.
 4.  Cook about 30 minutes, stir occasionally.
+
+## Options
+
+Substitute fresh ginger and other spices for pre-mix berbere spice blend
